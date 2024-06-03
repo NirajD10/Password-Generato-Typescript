@@ -1,4 +1,4 @@
-# Password-Generato
+# Password-Generato-Typescript
 A customized input user and generate random password (Existing Project) but using TypeScript
 
 <h3 align ="center"><a href="https://nirajd10.github.io/Password-Generato-Typescript/">View Here 🔗</a></h3>
